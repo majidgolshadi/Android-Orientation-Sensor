@@ -1,3 +1,6 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android--Orientation--Sensor-green.svg?style=flat)](https://android-arsenal.com/details/1/2107)
+
+
 Android-Orientation-Sensor
 ==========================
 
