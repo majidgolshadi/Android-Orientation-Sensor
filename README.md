@@ -1,5 +1,5 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android--Orientation--Sensor-green.svg?style=flat)](https://android-arsenal.com/details/1/2107)
-
+[![The MIT License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/majidgolshadi/Android-Orientation-Sensor/blob/master/LICENSE)
 
 Android-Orientation-Sensor
 ==========================
