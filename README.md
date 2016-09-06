@@ -14,7 +14,7 @@ To do this I use Accelerometer, Gyroscope, Magnetic and Orientation sensors valu
 
 Usage
 =====
-to use this library you can add my package to your project and use it easily.
+to use this library you can add codes to your project and easily use it.
 
 Create it's object
 ------------------
